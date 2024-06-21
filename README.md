@@ -13,7 +13,7 @@ https://app.hackthebox.com/machines/Nibbles
 10.10.14.147
 
 ### Information Gathering
-nmap -p- --min-rate 5000 -sV 10.129.131.68
+`nmap -p- --min-rate 5000 -sV 10.129.131.68
 ![nmapscan](screenshots/nmapscan.png)
 
 Viewing webpage with inspect open
